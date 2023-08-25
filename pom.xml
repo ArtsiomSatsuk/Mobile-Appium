@@ -107,7 +107,7 @@
         <allure-testng.version>2.6.0</allure-testng.version>
         <loggger.version>2.17.1</loggger.version>
         <opencsv.version>4.0</opencsv.version>
-        <testng.version>6.14.3</testng.version>
+        <testng.version>7.5.1</testng.version>
         <appium.version>4.1.2</appium.version>
         <owner.version>1.0.8</owner.version>
         <jaxb-api.version>2.2.11</jaxb-api.version>
